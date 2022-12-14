@@ -1,0 +1,56 @@
+body {
+  font-family: Georgia, serif;
+}
+
+main {
+  margin: 2rem;
+}
+
+section {
+  max-width: 1000px;
+  margin-top: 2rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1 {
+  color: #355a20;
+  text-align: center;
+}
+
+h2 {
+  color: #7baa47;
+}
+
+.navbar {
+  background-color: #85ffbd;
+  background-image: linear-gradient(45deg, #85ffbd 0%, #fffb7d 100%);
+}
+
+.logo {
+  width: 50px;
+  height: 50px;
+  margin: 1rem;
+}
+
+.sect-img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;
+}
+
+.h3 {
+  font-weight: bold;
+  font-size: large;
+  margin-top: 1rem;
+}
+
+.ol-li {
+  font-weight: bold;
+}
+
+.device {
+  font-weight: bold;
+  margin-top: 1rem;
+}
